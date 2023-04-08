@@ -9,7 +9,7 @@ Recomendamos que tenha você tenha o flask instalado. Caso não o tenha basta ex
 
 
 <p>Instale o postman  
-<p>Depois  copie e cole o codigo e execute.
+<p>Depois  copie e cole o codigo dentro do arquivo API FLASK e execute.
 <p>No seu terminal irá aparecer algumas informações para acessar a API via web.
 <p>EX:http://localhost:5000
 <p>
